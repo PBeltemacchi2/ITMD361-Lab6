@@ -3,6 +3,11 @@ body {
     background-color: #777777;
 }
 
+table {
+    border-color: #888888;
+    border-spacing: 2px;
+}
+
 #planets table {
     border-collapse: collapse;
     border-top: 0;
@@ -14,7 +19,7 @@ body {
 #planets td, 
 #planets th {
     border: 1px solid;
-    color: #FFFFFF;
+    color: #333333;
     padding: 0.4em;
 }
 
@@ -25,12 +30,12 @@ body {
     font-weight: bold;
     border-bottom: 0.125rem solid #9F0000;
     color: #FFFF00;
-    font-size: 2.5em;
+    font-size: 1.25em;
     background: #000000;
 }
 
 #planets td img { padding: 0.2em; }
 
 tr:nth-child(odd) {
-    background-color: #F4F4F4;
+    background-color: #EEEEEE;
 }
