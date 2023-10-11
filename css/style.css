@@ -50,12 +50,12 @@ body {
 
 #planets td img { padding: 0.2em; }
 
-#planets tr:nth-child(odd) {
-    background-color: #EEEEEE;
-}
-
 #planets td.black {
     color: #FFFF00;
     font-weight: bold;
     background-color: #000000;
+}
+
+#planets tr:nth-child(odd) {
+    background-color: #EEEEEE;
 }
