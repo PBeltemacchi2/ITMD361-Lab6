@@ -57,5 +57,5 @@ body {
 }
 
 #planets tr:nth-child(odd) {
-    background-color: #EEEEEE;
+    background-color: #EE00EE;
 }
