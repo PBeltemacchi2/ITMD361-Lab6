@@ -56,6 +56,6 @@ body {
     background-color: #000000;
 }
 
-#planets tr:nth-child(odd) {
-    background-color: #EE00EE;
+#planets td.gray {
+    background-color: #EEEEEE;
 }
