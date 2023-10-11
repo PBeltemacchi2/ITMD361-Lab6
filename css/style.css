@@ -16,6 +16,10 @@ body {
     background-color: #EEEEEE;
 }
 
+#content h1 {
+    padding: 0.5em;
+}
+
 #planets table {
     border-collapse: collapse;
     border-top: 0;
