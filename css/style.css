@@ -1,4 +1,10 @@
 td, th {
 	border: 1px solid;
   }
-  
+ thead th {
+    padding: 1em 1.25em;
+    border-bottom: 0;
+    background: #000000;
+    font-weight: bold;
+    color: #0000FF
+} 
