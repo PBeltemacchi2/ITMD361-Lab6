@@ -1,11 +1,7 @@
 body { 
     font-family: "Source Sans Pro",sans-serif; 
     background-color: #DDDDDD;
-}
-
-table {
-    border-color: #888888;
-    border-spacing: 2px;
+    margin:0 auto;
 }
 
 #planets table {
@@ -14,6 +10,8 @@ table {
     font-family: "Source Sans Pro",sans-serif;
     font-size: 1rem;
     line-height: 1.5;
+    border-color: #888888;
+    border-spacing: 2px;
 }
 
 #planets td, 
