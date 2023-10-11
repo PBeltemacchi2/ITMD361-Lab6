@@ -7,11 +7,13 @@ html, body {
 
 body { 
     font-family: "Source Sans Pro",sans-serif; 
-    background-color: #EEEEEE;
+    background-color: #FFFFFF;
 }
 
 #content {
     margin:0 auto;
+    width: 80%;
+    background-color: #EEEEEE;
 }
 
 #planets table {
