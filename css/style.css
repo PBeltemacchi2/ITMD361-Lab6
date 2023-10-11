@@ -43,10 +43,8 @@ body {
     border-bottom: 0;
     background: #000000;
     font-weight: bold;
-    border-bottom: 0.125rem solid #9F0000;
     color: #FFFF00;
     font-size: 1.25em;
-    background: #000000;
 }
 
 #planets td img { padding: 0.2em; }
