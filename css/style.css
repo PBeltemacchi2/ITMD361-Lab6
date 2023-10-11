@@ -8,6 +8,9 @@ html, body {
 body { 
     font-family: "Source Sans Pro",sans-serif; 
     background-color: #DDDDDD;
+}
+
+#content {
     margin:0 auto;
 }
 
