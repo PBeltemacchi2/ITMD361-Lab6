@@ -49,11 +49,11 @@ body {
 
 #planets td img { padding: 0.2em; }
 
-tr:nth-child(odd) {
+#planets tr:nth-child(odd) {
     background-color: #EEEEEE;
 }
 
-td:first-child {
+#planets td:first-child {
     color: #FFFF00;
     font-weight: bold;
 }
