@@ -52,3 +52,8 @@ body {
 tr:nth-child(odd) {
     background-color: #EEEEEE;
 }
+
+td:first-child {
+    color: #FFFF00;
+    font-weight: bold;
+}
