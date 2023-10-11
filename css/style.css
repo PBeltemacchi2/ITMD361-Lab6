@@ -36,6 +36,7 @@ body {
     border: 1px solid;
     color: #333333;
     padding: 0.4em;
+    background: #000000;
 }
 
 #planets th {
