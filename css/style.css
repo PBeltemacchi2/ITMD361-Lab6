@@ -21,7 +21,7 @@ body {
     padding: 0 0.5em 0.25em;
 }
 
-#planets table {
+table#planets {
     border-collapse: collapse;
     border-top: 0;
     font-family: "Source Sans Pro",sans-serif;
