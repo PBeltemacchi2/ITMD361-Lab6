@@ -36,7 +36,7 @@ table#planets {
     border: 1px solid;
     color: #333333;
     padding: 0.4em;
-    background: #000000;
+    background: #EEEEEE;
 }
 
 #planets th {
@@ -54,7 +54,8 @@ table#planets {
     background-color: #EEEEEE;
 }
 
-#planets td:first-child {
+#planets td.black {
     color: #FFFF00;
     font-weight: bold;
+    background-color: #000000;
 }
